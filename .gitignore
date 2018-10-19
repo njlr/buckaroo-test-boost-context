@@ -1,0 +1,6 @@
+/buck-out
+/.buckd
+/buckaroo.lock.json
+/buckaroo
+BUCKAROO_DEPS
+.buckconfig.local

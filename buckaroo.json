@@ -1,0 +1,6 @@
+{
+  "name": "buckaroo-test-boost-context",
+  "dependencies": {
+    "boost/context": "1.63.0"
+  }
+}
